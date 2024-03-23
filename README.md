@@ -23,6 +23,6 @@ Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
 perubahan 1.1
 
-perubahan 2
+perubahan 2.2
 
 perubahan 3
