@@ -23,4 +23,4 @@ Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
 update branch
 
-belajar itu menyenangkan
+belajar itu asyik
