@@ -22,3 +22,5 @@ Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan b
 Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
 perubahan 1
+
+perubahan 2
