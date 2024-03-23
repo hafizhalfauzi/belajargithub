@@ -21,8 +21,8 @@ Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exc
 Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar.
 Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
-perubahan 1
+perubahan 1.1
 
-perubahan 2
+perubahan 2.2
 
-perubahan 3
+perubahan 3.3
